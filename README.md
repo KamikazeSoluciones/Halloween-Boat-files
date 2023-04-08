@@ -9,7 +9,7 @@ motor, motor DC, y mi propia App creada con App Inventor. El barco cuenta con ga
 una estructura en acrílico. En el video de YouTube, podrás aprender sobre el sistema de dirección y propulsión del barco, 
 cómo controlar la posición de un servo, trabajar con el Arduino sin el Arduino, y crear una App para tu smartphone.
 
-![render cycles 2](https://user-images.githubusercontent.com/89432904/230685799-39e1dd0e-7c7c-439b-b2db-323450b064a1.png)
+![Assembly Boat](https://user-images.githubusercontent.com/89432904/230734321-557f1273-345e-49b3-826a-b5ba9c2eb237.jpg)
 
 
 RESUMEN DEL PROYECTO
