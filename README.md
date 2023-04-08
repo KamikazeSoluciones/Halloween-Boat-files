@@ -9,6 +9,9 @@ motor, motor DC, y mi propia App creada con App Inventor. El barco cuenta con ga
 una estructura en acrílico. En el video de YouTube, podrás aprender sobre el sistema de dirección y propulsión del barco, 
 cómo controlar la posición de un servo, trabajar con el Arduino sin el Arduino, y crear una App para tu smartphone.
 
+![render cycles 2](https://user-images.githubusercontent.com/89432904/230685799-39e1dd0e-7c7c-439b-b2db-323450b064a1.png)
+
+
 RESUMEN DEL PROYECTO
 
 Este proyecto trata sobre la construcción de un barco casero controlado por un microcontrolador Atmega328p, una placa de 
