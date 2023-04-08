@@ -64,7 +64,7 @@ Para ensamblar el Barco Casero, sigue estos pasos:
 
     Conecta los componentes según el siguiente diagrama:
 
-    Diagrama de conexión del barco casero
+   ![1](https://user-images.githubusercontent.com/89432904/230731513-535daf5f-c169-4d87-8f15-0aae3283328d.png)
 
     Carga el código fuente en el microcontrolador Atmega328p utilizando el software Arduino IDE.
 
