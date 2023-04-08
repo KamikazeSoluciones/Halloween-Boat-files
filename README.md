@@ -26,9 +26,7 @@ Este repositorio contiene los siguientes archivos:
 
     README.md: este archivo que proporciona información sobre el proyecto.
     Codigo.ino: el código fuente del proyecto que se carga en el microcontrolador Atmega328p.
-    APP.aia: el archivo de proyecto de la aplicación creada con App Inventor.
-    Video.mp4: Dos videos de demostración del proyecto.
-
+   
 REQUISITOS DEL SISTEMA
 
 Para replicar este proyecto, necesitarás los siguientes componentes:
